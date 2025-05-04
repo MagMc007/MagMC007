@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Merga! 👋
 
-<!--
-**MagMc007/MagMC007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 🚀
 
-Here are some ideas to get you started:
+I'm a passionate **Software Engineering student** with experience in **Python, C++, and Java**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning: **Backend Development**
+- 🌍 Languages: **English, Amharic, Afan Oromo**
+- 📫 How to reach me: **Mergashasho7@gmail.com**
+
+## Featured Projects 💻
+
+### [📒 Contacts Book](https://github.com/MagMc007/CS50P-Final-Project)
+
+A CLI-based phone book app created for CS50P that uses **SQLite** to store names, emails, phone numbers, and addresses.  
+Features add, search, update, and delete functionalities.
+
+## Get in Touch 📬
+
+- [**LinkedIn**](https://www.linkedin.com/in/merga-mekonnen-a524502a0)
+- [**Twitter**](https://x.com/Merga132555)
+
+---
+
+
+
