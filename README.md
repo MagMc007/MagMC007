@@ -2,7 +2,7 @@
 
 ## About Me 🚀
 
-I'm a passionate **Software Engineering student** with experience in **Python, C++, and Java**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Software Engineer** with experience in **Python, C++, and Java**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **Backend Development**
 - 🌍 Languages: **English, Amharic, Afan Oromo**
